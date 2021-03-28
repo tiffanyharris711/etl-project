@@ -18,4 +18,4 @@ Jupyter Notebook files:
     * SQL code to create the Postgres tables are saved in [createTables.sql](./createTables.sql)
     * Since the Python code in ETL_Project.ipynb will insert records into the Postgres database, the SQL code [deleteSQL.sql](./deleteSQL.sql) was created to quickly delete the contents of the tables so the Python code can be ran again.
     * The CSV files were combined using UNION queries and VIEWS were created in SQL in the [sqlQueries.sql](./sqlQueries.sql) file
-4. Analysis and technical report documentation can be found in ["Pandasy Football SQL Report.docx"]("./Pandasy Football SQL Report.docx")
+4. Analysis and technical report documentation can be found in [PandasyFootballSQLReport.docx](./PandasyFootballSQLReport.docx)
